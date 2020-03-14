@@ -1,0 +1,11 @@
+--This file contains test data only. Do not write Python code here
+
+input_list = [5,9,2,8,1,4,9]
+
+
+input_list = [1,2,1,5,2,1,6,8]
+
+
+input_list = [1,2,3,5,8,4]
+
+

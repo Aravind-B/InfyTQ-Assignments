@@ -1,0 +1,14 @@
+--This file contains test data only. Do not write Python code here
+
+input_string = 'GHJ:200,ASD:659,YTH:675'
+
+
+input_string = 'ABC:728,IJK:789'
+
+
+input_string = 'EFG:219,UVW:243,OPQ:234,RST:129'
+
+
+input_string = 'ABC:265'
+
+
